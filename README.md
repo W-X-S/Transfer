@@ -1,2 +1,2 @@
-# hebut_jwxs
-A simple spider by a green hand
+# Transfer
+A simple HTML server for files/text delivery.
